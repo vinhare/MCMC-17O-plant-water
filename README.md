@@ -3,7 +3,7 @@
 # Bayesian Triple Oxygen Isotope Parameter Estimation for plant waters
 
 ## Overview
-This repository contains the MATLAB script **Bayesian_Equisetum.m**, which implements a Bayesian Markov Chain Monte Carlo (MCMC) approach for estimating parameters related to the triple oxygen isotope composition of plant water in _Equisetum_. The methodology is based on Bayesian inference to model the isotopic fractionation processes affecting water compositio.
+This repository contains the MATLAB script **Bayesian_Equisetum.m**, which implements a Bayesian Markov Chain Monte Carlo (MCMC) approach for estimating parameters related to the triple oxygen isotope composition of plant water in _Equisetum_. The methodology is based on Bayesian inference to model the isotopic fractionation processes affecting water composition.
 
 The script is associated with the paper:
 
